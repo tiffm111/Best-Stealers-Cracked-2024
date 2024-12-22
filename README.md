@@ -3,3 +3,5 @@ Please see individual releases for further information.
 2. XWorm 5.6
 3. Dark Comet RAT/Stealer
 4. MetaStealer
+5. Crypto Clipper 2024
+6. Edge Guard Stealer
